@@ -1,0 +1,30 @@
+# Build artifacts
+*.zip
+*.tar.gz
+*.AppImage
+*.exe
+*.dmg
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
